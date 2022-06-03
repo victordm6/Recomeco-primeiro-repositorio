@@ -1,2 +1,2 @@
-# Recome-o-primeiro-repositorio
+# Recomeco-primeiro-repositorio
 Desafio de projeto sobre git/github
