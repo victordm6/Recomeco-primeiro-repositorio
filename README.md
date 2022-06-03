@@ -1,3 +1,9 @@
 # Recomeço Anotações
 Desafio de projeto sobre git/github
--sas
+
+- Git/Github
+- Java
+- Javascript
+- Html
+- ReactJS
+- SQL
