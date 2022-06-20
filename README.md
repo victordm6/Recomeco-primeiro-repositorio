@@ -1,8 +1,9 @@
 # Recomeço Anotações
 
-- Git/Github
 - Java
 - Javascript
+- Python
 - Html
 - ReactJS
 - SQL
+- Git
