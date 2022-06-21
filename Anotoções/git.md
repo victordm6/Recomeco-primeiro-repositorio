@@ -1,4 +1,4 @@
-## Comnados git
+## Comandos git
 ####
 - git remote add origin git@github.com:<userGitHub>/<nomeDoRepositório>.git ⇾ Cria um "apelido" pro repositório no GitHub. 
   Nesse caso o apelido é Origin, comumente é usado esse nome para o repositório padrão;
